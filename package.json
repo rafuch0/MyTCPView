@@ -1,0 +1,19 @@
+{
+  "name": "MyTCPView",
+  "description": "Project Description.",
+  "version": "0.0.1",
+  "homepage": "http://#",
+  "author": "You",
+  "private": true,
+  "dependencies":
+  {
+    "socket.io": "latest",
+    "pcap": "latest",
+    "pcap-parser": "latest",
+    "node-shark": "latest"
+  },
+ "engines":
+  {
+    "node": ">= 0.4.6"
+  }
+}
